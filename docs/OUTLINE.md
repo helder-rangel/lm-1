@@ -24,7 +24,7 @@
 
 **Conteúdo:**
 - Exibindo a [arquitetura da Web](https://www.youtube.com/watch?v=guvsH5OFizE) (Tripé: URL, HTTP, HTML)
-- [Fundamentos de uma Linguagem de Marcação](../slides/markup.pdf)
+- Fundamentos de uma Linguagem de Marcação: [slide](../slides/markup.pdf) e [guide](https://ifpb.github.io/html-guide/markup/)
 
 **Exercício:**
 * Descreva o que acontecer ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
@@ -39,9 +39,7 @@
 
 **Conteúdo:**
 - Editando HTML com [Visutal Studio Code (vscode)](http://code.visualstudio.com) e visualizando com o [Google Chrome](https://www.google.com/chrome/)
-- Criando a primeira página Hello World
-- Criando a primeira página da Web
-- Trabalhando com [HTML](../slides/html.pdf)
+- Trabalhando com HTML: [slide](../slides/html.pdf) e [guide](https://ifpb.github.io/html-guide/html/)
   - Conceitos básicos
   - Estrutura básica
     - Cabeçalho e Corpo
@@ -53,9 +51,12 @@
     - Parágrafos
     - Negrito e Itálico
   - [Referências dos Elementos no MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/)
+- Criando a página Hello World
+- Criando a primeira página da Web
 
 **Exercício:**
-* [Criando sua primeira página](../tasks/hello-world-html/README.md)
+* Analise os elementos HTML: [Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning), [Text content](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Text_content), [Inline text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics).
+* [Criando sua Primeira Página Web](https://ifpb.github.io/html-exercises/challenges/hello-world-html/)
 
 ## \# 04 - Sintaxe e Estruturas do HTML (23/03/2018)
 ---
@@ -73,4 +74,5 @@
   - Abrindo recurso em nova aba
 
 **Exercício:**
-* [Primeira Página da Web](../tasks/first-web-page/README.md)
+* Reconstruindo a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
+* [Inspecionando uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
