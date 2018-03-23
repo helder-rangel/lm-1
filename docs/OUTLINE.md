@@ -16,8 +16,8 @@
 - Fundamento e finalidade do XML
 
 **Exercício:**
-* Analisar o [site da discplina](https://ifpb.github.io/lm/) e se inscrever no channel `#lm20181` do [slack do ifpb](https://ifpb.slack.com).
-* Configurar seu computador com essas [ferramentas](TOOLS.md).
+* Analise o [site da discplina](https://ifpb.github.io/lm/) e se inscrever no channel `#lm20181` do [slack do ifpb](https://ifpb.slack.com).
+* Configure seu computador com essas [ferramentas](TOOLS.md).
 
 ## \# 02 - Linguagem de Marcação (16/03/2018)
 ---
@@ -28,7 +28,7 @@
 
 **Exercício:**
 * Descreva o que acontecer ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
-* Pesquisar sobre a evolução da Web
+* Pesquise sobre a evolução da Web
   * O que é Web de documentos e Web de dados?
   * O que é Web 1.0, Web 2.0 e Web 3.0?
 * Descreva o que é uma Linguagem de Marcação
@@ -56,23 +56,23 @@
 
 **Exercício:**
 * Analise os elementos HTML: [Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning), [Text content](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Text_content), [Inline text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics).
-* [Criando sua Primeira Página Web](https://ifpb.github.io/html-exercises/challenges/hello-world-html/)
+* [Crie sua Primeira Página Web](https://ifpb.github.io/html-exercises/challenges/hello-world-html/)
 
 ## \# 04 - Sintaxe e Estruturas do HTML (23/03/2018)
 ---
 
 **Conteúdo:**
-- Sintaxe do HTML
+- [Sintaxe do HTML](https://ifpb.github.io/html-guide/html/)
   - Tags, atributos (`charset` do meta e `lang` no html), entidades e comentários
   - Como acessar a documentação de uma tag ou atributo usando o portal [MDN](https://developer.mozilla.org/kab/docs/Web/HTML)
 - Listas `<ol>`, `<ul>`, `<dl>`
   - Definição, Ordenada, Não ordenado
   - Personalizando marcadores
-  - Agrupando listas
+  - Lista aninhada
 - Hyperlink `<a>`
   - Endereço absoluto e relativo
   - Abrindo recurso em nova aba
 
 **Exercício:**
-* Reconstruindo a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
-* [Inspecionando uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
+* Reconstrua a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
+* [Inspecione uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
