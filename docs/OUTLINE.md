@@ -24,7 +24,7 @@
 
 **Conteúdo:**
 - Exibindo a [arquitetura da Web](https://www.youtube.com/watch?v=guvsH5OFizE) (Tripé: URL, HTTP, HTML)
-- Fundamentos de uma Linguagem de Marcação: [slide](../slides/markup.pdf) e [guide](https://ifpb.github.io/html-guide/markup/)
+- Fundamentos de uma Linguagem de Marcação: [slide](https://ifpb.github.io/html-guide/slides/markup.pdf) e [guide](https://ifpb.github.io/html-guide/markup/)
 
 **Exercício:**
 * Descreva o que acontecer ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
@@ -39,11 +39,11 @@
 
 **Conteúdo:**
 - Editando HTML com [Visutal Studio Code (vscode)](http://code.visualstudio.com) e visualizando com o [Google Chrome](https://www.google.com/chrome/)
-- Trabalhando com HTML: [slide](../slides/html.pdf) e [guide](https://ifpb.github.io/html-guide/html/)
+- Trabalhando com HTML: [slide](https://ifpb.github.io/html-guide/slides/html.pdf) e [guide](https://ifpb.github.io/html-guide/html/)
   - Conceitos básicos
   - Estrutura básica
     - Cabeçalho e Corpo
-  - Medados do Hyper Texto
+  - Metadados do Hyper Texto
     - Título da página
     - Encoding e UTF-8
   - Elementos do Hyper Texto
