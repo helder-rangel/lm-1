@@ -4,6 +4,7 @@
 [\# 02 - Linguagem de Marcação (16/03/2018)](#-02---linguagem-de-marcação-16032018)<br>
 [\# 03 - Primeiros passos com HTML (21/03/2018)](#-03---primeiros-passos-com-html-21032018)<br>
 [\# 04 - Sintaxe e Estruturas do HTML (23/03/2018)](#-04---sintaxe-e-estruturas-do-html-23032018)<br>
+[\# 05 - Analisando uma página (28/03/2018)](#-05---analisando-uma-página-28032018)<br>
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -23,8 +24,8 @@
 ---
 
 **Conteúdo:**
-- Exibindo a [arquitetura da Web](https://www.youtube.com/watch?v=guvsH5OFizE) (Tripé: URL, HTTP, HTML)
-- Fundamentos de uma Linguagem de Marcação: [slide](https://ifpb.github.io/html-guide/slides/markup.pdf) e [guide](https://ifpb.github.io/html-guide/markup/)
+- Exibindo a [arquitetura da Web](https://www.youtube.com/watch?v=guvsH5OFizE) (Tripé: URL, HTTP, HTML; [slide](https://ifpb.github.io/web-guide/slides/web.pdf))
+- Fundamentos de uma Linguagem de Marcação ([guide](https://ifpb.github.io/html-guide/markup/))
 
 **Exercício:**
 * Descreva o que acontecer ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
@@ -72,7 +73,22 @@
 - Hyperlink `<a>`
   - Endereço absoluto e relativo
   - Abrindo recurso em nova aba
+  - Links locais e externos
 
 **Exercício:**
 * Reconstrua a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
+
+## \# 05 - Analisando uma página (28/03/2018)
+---
+
+**Conteúdo:**
+- Analisando uma página HTML
+  - Analisando a *Primeira Página da Web* com HTML recente
+  - Ver Código Fonte, Ferramenta de Desenvolvedor e Plugin Web Developer
+  - Ferramenta de Desenvolvedor
+    - Inspecionar e editar código, Toogle device toolbar, Network e Screenshot
+- Linha Horizontal `<hr>`
+
+**Exercício:**
 * [Inspecione uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
+* Reproduza a [Página LM](https://ifpb.github.io/html-exercises/challenges/page-lm-simple/)
