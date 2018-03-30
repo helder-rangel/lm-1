@@ -5,6 +5,8 @@
 [\# 03 - Primeiros passos com HTML (21/03/2018)](#-03---primeiros-passos-com-html-21032018)<br>
 [\# 04 - Sintaxe e Estruturas do HTML (23/03/2018)](#-04---sintaxe-e-estruturas-do-html-23032018)<br>
 [\# 05 - Analisando uma página (28/03/2018)](#-05---analisando-uma-página-28032018)<br>
+[\# 06 - Criando a página da disciplina com imagens (04/04/2018)](#-06---criando-a-página-da-disciplina-com-imagens-04042018)<br>
+[\# 07 - Criando um currículo em HTML (06/04/2018)](#-07---criando-um-currículo-em-html-06042018)<br>
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -40,7 +42,7 @@
 
 **Conteúdo:**
 - Editando HTML com [Visutal Studio Code (vscode)](http://code.visualstudio.com) e visualizando com o [Google Chrome](https://www.google.com/chrome/)
-- Trabalhando com HTML: [slide](https://ifpb.github.io/html-guide/slides/html.pdf) e [guide](https://ifpb.github.io/html-guide/html/)
+- [Trabalhando com HTML](https://ifpb.github.io/html-guide/html/)
   - Conceitos básicos
   - Estrutura básica
     - Cabeçalho e Corpo
@@ -66,11 +68,11 @@
 - [Sintaxe do HTML](https://ifpb.github.io/html-guide/html/)
   - Tags, atributos (`charset` do meta e `lang` no html), entidades e comentários
   - Como acessar a documentação de uma tag ou atributo usando o portal [MDN](https://developer.mozilla.org/kab/docs/Web/HTML)
-- Listas `<ol>`, `<ul>`, `<dl>`
+- [Listas `<ol>`, `<ul>`, `<dl>`](https://ifpb.github.io/html-guide/html/#lists)
   - Definição, Ordenada, Não ordenado
   - Personalizando marcadores
   - Lista aninhada
-- Hyperlink `<a>`
+- [Hyperlink `<a>`](https://ifpb.github.io/html-guide/html/#hyperlink)
   - Endereço absoluto e relativo
   - Abrindo recurso em nova aba
   - Links locais e externos
@@ -92,3 +94,32 @@
 **Exercício:**
 * [Inspecione uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
 * Reproduza a [Página LM](https://ifpb.github.io/html-exercises/challenges/page-lm-simple/)
+
+## \# 06 - Criando a página da disciplina com imagens (04/04/2018)
+
+* * *
+
+**Conteúdo:**
+- Analisando a Página de LM
+- Imagem `<img>`, `<figure>`, `<figcaption>`
+  - Imagem dentro (Data URI), próximo ou distante do HTML
+    - Custos e benefícios
+  - Atributos: `src`, `alt`, `width`, `title`
+  - Imagem com link
+
+**Exercício:**
+* [Página LM usando imagem](https://ifpb.github.io/html-exercises/challenges/page-lm-img/)
+
+## \# 07 - Criando um currículo em HTML (06/04/2018)
+
+* * *
+
+**Conteúdo:**
+- Hyperlink
+  - Links locais e externos
+  - Link externo com local
+- Revisão de HTML
+
+**Exercício:**
+* [Curriculum Vitae](https://ifpb.github.io/html-exercises/challenges/curriculum-simple/)
+* [Curriculum Vitae com Sumário](https://ifpb.github.io/html-exercises/challenges/curriculum-linkinternal/)
