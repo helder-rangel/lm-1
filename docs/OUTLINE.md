@@ -96,12 +96,11 @@
 * Reproduza a [Página LM](https://ifpb.github.io/html-exercises/challenges/page-lm-simple/)
 
 ## \# 06 - Criando a página da disciplina com imagens (04/04/2018)
-
-* * *
+---
 
 **Conteúdo:**
 - Analisando a Página de LM
-- Imagem `<img>`, `<figure>`, `<figcaption>`
+- [Imagem `<img>`, `<figure>`, `<figcaption>`](https://ifpb.github.io/html-guide/html/#image-and-multimedia)
   - Imagem dentro (Data URI), próximo ou distante do HTML
     - Custos e benefícios
   - Atributos: `src`, `alt`, `width`, `title`
@@ -111,13 +110,9 @@
 * [Página LM usando imagem](https://ifpb.github.io/html-exercises/challenges/page-lm-img/)
 
 ## \# 07 - Criando um currículo em HTML (06/04/2018)
-
-* * *
+---
 
 **Conteúdo:**
-- Hyperlink
-  - Links locais e externos
-  - Link externo com local
 - Revisão de HTML
 
 **Exercício:**
