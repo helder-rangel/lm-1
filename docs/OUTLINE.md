@@ -7,6 +7,8 @@
 [\# 05 - Analisando uma página (28/03/2018)](#-05---analisando-uma-página-28032018)<br>
 [\# 06 - Criando a página da disciplina com imagens (04/04/2018)](#-06---criando-a-página-da-disciplina-com-imagens-04042018)<br>
 [\# 07 - Criando um currículo em HTML (06/04/2018)](#-07---criando-um-currículo-em-html-06042018)<br>
+[\# 08 - Linguagem de Estilo e o CSS (11/04/2018)](#-08---linguagem-de-estilo-e-o-css-11042018))
+[\# 09 - Primeiros Passos com CSS (13/04/2018)](#-09---primeiros-passos-com-css-13042018))
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -118,3 +120,46 @@
 **Exercício:**
 * [Curriculum Vitae](https://ifpb.github.io/html-exercises/challenges/curriculum-simple/)
 * [Curriculum Vitae com Sumário](https://ifpb.github.io/html-exercises/challenges/curriculum-linkinternal/)
+
+## \# 08 - Linguagem de Estilo e o CSS (11/04/2018)
+---
+
+**Conteúdo:**
+- [Linguagem de Estilo](https://ifpb.github.io/css-guide/style/)
+  - Definição e exemplos
+  - Declaração global e específica; declarativa e imperativa
+- HTML
+  - Elemento [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+  - Atributos globais: `class`, `id`
+- [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
+  - Declarações: local, interna, externa
+  - Propriedades:
+      - Texto & Fonte
+        - `color`
+        - `font-size`
+  - Seletores: 
+    - tipo (`elementname`)
+    - id (`#idname`)
+    - classe (`.classname`)
+
+**Exercício:**
+* [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/challenges/hello-world-css/)
+
+
+## \# 09 - Primeiros Passos com CSS (13/04/2018)
+
+**Conteúdo:**
+- Sintaxe do CSS
+  - Propriedades
+  - Seletores
+  - Funções
+  - At-rules
+  - Media query
+- Herança de estilo
+- Inspecionando estilos dos Elementos
+  - Analisando e editando estilos
+
+**Exercício:**
+* Revise os conceitos da Sintaxe do CSS.
+* [Analisando uma página com Estilo](https://ifpb.github.io/css-exercises/challenges/inspect-style/)
+* [Selecionando Elementos no HTML](https://ifpb.github.io/css-exercises/challenges/selector-css/)
