@@ -144,7 +144,7 @@
     - id (`#idname`)
     - classe (`.classname`)
 
-**Questões**
+**Reflexão**
 * O que é uma Linguagem de Estilo?
 * O que é e como funciona o CSS?
 * Quais são os possíveis locais que o CSS pode existir junto com o HTML?
@@ -167,7 +167,7 @@
 - Inspecionando estilos dos Elementos
   - Analisando e editando estilos
 
-**Questões**
+**Reflexão**
 * Qual é a composição da sintaxe do CSS?
 * Qual é o benefício da herança no CSS?
 * Como é possível identificar o estilo atribuído a algum elmento no HTML?
