@@ -7,8 +7,8 @@
 [\# 05 - Analisando uma página (28/03/2018)](#-05---analisando-uma-página-28032018)<br>
 [\# 06 - Criando a página da disciplina com imagens (04/04/2018)](#-06---criando-a-página-da-disciplina-com-imagens-04042018)<br>
 [\# 07 - Criando um currículo em HTML (06/04/2018)](#-07---criando-um-currículo-em-html-06042018)<br>
-[\# 08 - Linguagem de Estilo e o CSS (11/04/2018)](#-08---linguagem-de-estilo-e-o-css-11042018))
-[\# 09 - Primeiros Passos com CSS (13/04/2018)](#-09---primeiros-passos-com-css-13042018))
+[\# 08 - Linguagem de Estilo e o CSS (11/04/2018)](#-08---linguagem-de-estilo-e-o-css-11042018))<br>
+[\# 09 - Primeiros Passos com CSS (13/04/2018)](#-09---primeiros-passos-com-css-13042018))<br>
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -129,8 +129,10 @@
   - Definição e exemplos
   - Declaração global e específica; declarativa e imperativa
 - HTML
-  - Elemento [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-  - Atributos globais: `class`, `id`
+  - Elementos: [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
+  [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
+  [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
+  - Atributos globais: `class`, `id`, `style`
 - [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
   - Declarações: local, interna, externa
   - Propriedades:
@@ -141,6 +143,12 @@
     - tipo (`elementname`)
     - id (`#idname`)
     - classe (`.classname`)
+
+**Questões**
+* O que é uma Linguagem de Estilo?
+* O que é e como funciona o CSS?
+* Quais são os possíveis locais que o CSS pode existir junto com o HTML?
+* Qual a relação do atributo global `class` e `id` com o CSS?
 
 **Exercício:**
 * [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/challenges/hello-world-css/)
@@ -158,6 +166,12 @@
 - Herança de estilo
 - Inspecionando estilos dos Elementos
   - Analisando e editando estilos
+
+**Questões**
+* Qual é a composição da sintaxe do CSS?
+* Qual é o benefício da herança no CSS?
+* Como é possível identificar o estilo atribuído a algum elmento no HTML?
+* O que acontece quando um elemento carrega um estilo inválido? É possível identificar?
 
 **Exercício:**
 * Revise os conceitos da Sintaxe do CSS.
