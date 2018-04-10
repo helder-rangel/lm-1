@@ -127,45 +127,46 @@
 **Conteúdo:**
 - [Linguagem de Estilo](https://ifpb.github.io/css-guide/style/)
   - Definição e exemplos
-  - Declaração global e específica; declarativa e imperativa
-- HTML
-  - Elementos: [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-  [`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)
-  [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
-  - Atributos globais: `class`, `id`, `style`
 - [Cascade Style Sheet (CSS)](https://ifpb.github.io/css-guide/css/)
-  - Declarações: local, interna, externa
-  - Propriedades:
+  - [Origem do CSS](https://ifpb.github.io/css-guide/css/#problem)
+  - [Declarações do CSS](https://ifpb.github.io/css-guide/css/#how-to-apply-your-css-to-your-html): local (`style=""`), interna ([`<style>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/style)), externa ([`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link))
+  - Sintaxe do CSS
+    - [Propriedades](https://ifpb.github.io/css-guide/css/#properties):
       - Texto & Fonte
         - `color`
         - `font-size`
-  - Seletores: 
-    - tipo (`elementname`)
-    - id (`#idname`)
-    - classe (`.classname`)
+    - [Seletores básicos](https://ifpb.github.io/css-guide/css/#selectors): 
+      - tipo (`elementname`)
+        - Agrupamentos com [`<span>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span) e [`<div>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
+      - id (`#idname` e `id=""`)
+      - classe (`.classname` e `class=""`)
+      - Múltiplas classes `.classA.classB`
 
 **Reflexão**
 * O que é uma Linguagem de Estilo?
 * O que é e como funciona o CSS?
 * Quais são os possíveis locais que o CSS pode existir junto com o HTML?
 * Qual a relação do atributo global `class` e `id` com o CSS?
+* Qual é a composição da sintaxe do CSS?
+* Qual é o benefício de definir mais de uma classe à um elemento?
 
 **Exercício:**
 * [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/challenges/hello-world-css/)
 
 
 ## \# 09 - Primeiros Passos com CSS (13/04/2018)
+---
 
 **Conteúdo:**
+- [Herança de estilo](https://ifpb.github.io/css-guide/css/#inheritance)
+- [Inspecionando estilos dos Elementos](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/): Analisando e editando estilos
 - Sintaxe do CSS
-  - Propriedades
-  - Seletores
-  - Funções
-  - At-rules
-  - Media query
-- Herança de estilo
-- Inspecionando estilos dos Elementos
-  - Analisando e editando estilos
+  - [Funções](https://ifpb.github.io/css-guide/css/#functions)
+  - [Seletores](https://ifpb.github.io/css-guide/css/#selectors)
+    - Básico: Atributo `[]`
+    - Combinação: Child `A>B`, Descendant `A B`, Adjacent sibling `A + B`, General sibling `A ~ B`
+    - Pseudo-class: `:hover`, `:first-child`, `:nth-child`
+    - Pseudo-element: `::selection`
 
 **Reflexão**
 * Qual é a composição da sintaxe do CSS?
@@ -174,6 +175,33 @@
 * O que acontece quando um elemento carrega um estilo inválido? É possível identificar?
 
 **Exercício:**
-* Revise os conceitos da Sintaxe do CSS.
 * [Analisando uma página com Estilo](https://ifpb.github.io/css-exercises/challenges/inspect-style/)
 * [Selecionando Elementos no HTML](https://ifpb.github.io/css-exercises/challenges/selector-css/)
+
+<!-- 
+## \# 10 - Primeiros Passos com CSS (18/04/2018)
+---
+
+**Conteúdo:**
+- Sintaxe do CSS
+  - [At-rules](https://ifpb.github.io/css-guide/css/#at-rules)
+  - [Media query](https://ifpb.github.io/css-guide/css/#media-queries)
+- Web Fonts
+
+**Reflexão**
+* Qual é a composição da sintaxe do CSS?
+* Qual é a utilidade dos at-rules no CSS?
+* Qual a relação entre Media query e Design responsivo?
+
+**Exercício:**
+* [Adpatando a página de impressão]()
+
+## \# 11 -  (20/04/2018)
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+* Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/challenges/curriculum-style-text/) 
+-->
