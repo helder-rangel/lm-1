@@ -164,14 +164,14 @@
   - [Funções](https://ifpb.github.io/css-guide/css/#functions)
   - [Seletores](https://ifpb.github.io/css-guide/css/#selectors)
     - Básico: Atributo `[]`
-    - Combinação: Child `A>B`, Descendant `A B`, Adjacent sibling `A + B`, General sibling `A ~ B`
+    - Combinação: Child `A > B`, Descendant `A B`, Adjacent sibling `A + B`, General sibling `A ~ B`
     - Pseudo-class: `:hover`, `:first-child`, `:nth-child`
     - Pseudo-element: `::selection`
 
 **Reflexão**
 * Qual é a composição da sintaxe do CSS?
 * Qual é o benefício da herança no CSS?
-* Como é possível identificar o estilo atribuído a algum elmento no HTML?
+* Como é possível identificar o estilo atribuído a algum elemento no HTML?
 * O que acontece quando um elemento carrega um estilo inválido? É possível identificar?
 
 **Exercício:**
@@ -186,22 +186,30 @@
 - Sintaxe do CSS
   - [At-rules](https://ifpb.github.io/css-guide/css/#at-rules)
   - [Media query](https://ifpb.github.io/css-guide/css/#media-queries)
-- Web Fonts
 
 **Reflexão**
 * Qual é a composição da sintaxe do CSS?
 * Qual é a utilidade dos at-rules no CSS?
+* É possível utilizar fontes que não são instaladas no computados?
+* Qual é o princípio da estilização da página de impressão?
 * Qual a relação entre Media query e Design responsivo?
 
 **Exercício:**
-* [Adpatando a página de impressão]()
+* [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/challenges/customize-print/)
 
-## \# 11 -  (20/04/2018)
+## \# 11 - Estilizando Texto (20/04/2018)
+---
 
 **Conteúdo:**
+- Estilizando Texto
 
 **Reflexão**
 
 **Exercício:**
 * Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/challenges/curriculum-style-text/) 
+
+## \# 12 -  Web Fonts e Ícones (20/04/2018)
+---
+
+* [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/challenges/curriculum-style-icon/)
 -->
