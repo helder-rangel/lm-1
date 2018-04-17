@@ -9,6 +9,8 @@
 [\# 07 - Criando um currículo em HTML (06/04/2018)](#-07---criando-um-currículo-em-html-06042018)<br>
 [\# 08 - Linguagem de Estilo e o CSS (11/04/2018)](#-08---linguagem-de-estilo-e-o-css-11042018))<br>
 [\# 09 - Primeiros Passos com CSS (13/04/2018)](#-09---primeiros-passos-com-css-13042018))<br>
+[\# 10 - Primeiros Passos com CSS (18/04/2018)](#-10---primeiros-passos-com-css-18042018)<br>
+[\# 11 - Estilizando Texto (20/04/2018)](#-11---estilizando-texto-20042018)<br>
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -81,6 +83,11 @@
 
 **Exercício:**
 * Reconstrua a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
+
+<!-- 
+TODO
+https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-content
+ -->
 
 ## \# 05 - Analisando uma página (28/03/2018)
 ---
@@ -178,21 +185,27 @@
 * [Analisando uma página com Estilo](https://ifpb.github.io/css-exercises/challenges/inspect-style/)
 * [Selecionando Elementos no HTML](https://ifpb.github.io/css-exercises/challenges/selector-css/)
 
-<!-- 
+
 ## \# 10 - Primeiros Passos com CSS (18/04/2018)
 ---
 
 **Conteúdo:**
 - Sintaxe do CSS
   - [At-rules](https://ifpb.github.io/css-guide/css/#at-rules)
+    - @import
+    - @font-face
+    - @media
   - [Media query](https://ifpb.github.io/css-guide/css/#media-queries)
+    - Media types
+    - Media features
+    - Logical operators
 
 **Reflexão**
 * Qual é a composição da sintaxe do CSS?
 * Qual é a utilidade dos at-rules no CSS?
-* É possível utilizar fontes que não são instaladas no computados?
-* Qual é o princípio da estilização da página de impressão?
-* Qual a relação entre Media query e Design responsivo?
+* O que é Media query? Qual é a sua composição? Onde definimos?
+* Como personalizamos uma página de impressão?
+* Qual a relação entre Media query e Design responsivo? Como definos *breakpoint* no Design responsivo?
 
 **Exercício:**
 * [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/challenges/customize-print/)
@@ -201,15 +214,258 @@
 ---
 
 **Conteúdo:**
-- Estilizando Texto
+- [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography.html):
+  - [Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font)
+  - [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout)
+- [Estilizando links](https://ifpb.github.io/css-guide/css/links.html)
+  - Selector pseudo-class: `:hover`, `:link`, `:active`, `:visited`, `:focus`
+
+**Reflexão**
+* Quais são os estilos de alinhamento e aparência para fonte?
+* Qual cor combina com o vermelho tomate?
+* Se não for definido nenhum font-family, qual será a fonte atribuída?
+* O que acontece se font-family não possuir a fonte instalada no computador?
+* Qual é a diferença entre <font-family> e <generic-family>?
+* Qual é a recomendação para se difinir uma família de fonte?
+* Qual a diferança entre unidades de medida relativa e absoluta?
+* Como funciona a sobra para um texto?
+* Como estilizamos um hyperlink?
+
+**Exercício:**
+* No exercício [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/challenges/customize-print/), crie alguns links e depois tente estilizá-los nos estados `:hover`, `:link`, `:active`, `:visited`, `:focus`. Alterando `color`, `outline`, `text-decoration`, `cursor`.
+
+<!-- 
+## \# 12 -  Estilizando Texto (25/04/2018)
+---
+
+**Conteúdo:**
+- [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography.html)
+- [Estilizando links](https://ifpb.github.io/css-guide/css/links.html)
+
+**Reflexão**
+* Quais são os estilos de alinhamento e aparência para fonte?
+
+**Exercício:**
+* Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/challenges/curriculum-style-text/)
+
+## \# 13 -  Web Fonts e Ícones (27/04/2018)
+---
+
+**Conteúdo:**
 
 **Reflexão**
 
 **Exercício:**
-* Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/challenges/curriculum-style-text/) 
+* [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/challenges/curriculum-style-icon/)
 
-## \# 12 -  Web Fonts e Ícones (20/04/2018)
+## \# 14 - Cascata no CSS (02/05/2018)
 ---
 
-* [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/challenges/curriculum-style-icon/)
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 15 - Box Model (04/05/2018)
+---
+
+**Conteúdo:**
+- [Inline text semantics \| W3C](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics)
+**Reflexão**
+
+**Exercício:**
+
+## \# 16 - Box Model (09/05/2018)
+---
+
+**Conteúdo:**
+- [Styling links as buttons \| W3C](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#Including_icons_on_links)
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 17 - Backgound (11/05/2018)
+---
+
+**Conteúdo:**
+- [Including icons on links \| W3C](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#Including_icons_on_links)
+
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 18 - Tabela, Lista (16/05/2018)
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 19 - Curriculum Viate com Layout Básico (18/05/2018)
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 20 - Simulado I de HTML e CSS (23/05/2018)
+---
+
+## \# 21 - Avaliação I de HTML e CSS (25/05/2018)
+---
+
+## \# 22 - Apresentação do Projetos e do Blog
+---
+
+## \# 23 - Apresentação das propostas de Projetos
+---
+
+## \# 24 - Flexbox
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 25 - Flexbox
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 26 - Grid layout
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 27 - Grid layout
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 28 - Formulário
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 29 - Design Responsivo
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 30 - Design Responsivo
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 31 - Simulado II de HTML e CSS
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 32 - Avaliação II de HTML e CSS
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 33 - Posicionamento de Elementos
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 34 - Posicionamento de Elementos
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 35 - Animação com CSS
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 36 - Animação com CSS
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 37 - Componentes da Web e Publicando seu site
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 38 - XML & DTD
+---
+
+**Conteúdo:**
+
+**Reflexão**
+
+**Exercício:**
+
+## \# 39 - Apresentação de Projetos
+---
+
+## \# 40 - Apresentação de Projetos
+---
+
 -->
