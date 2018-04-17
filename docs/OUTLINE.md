@@ -63,7 +63,7 @@
 
 **Exercício:**
 * Analise os elementos HTML: [Content sectioning](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning), [Text content](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Text_content), [Inline text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics).
-* [Crie sua Primeira Página Web](https://ifpb.github.io/html-exercises/challenges/hello-world-html/)
+* [Crie sua Primeira Página Web](https://ifpb.github.io/html-exercises/html/hello-world-html/)
 
 ## \# 04 - Sintaxe e Estruturas do HTML (23/03/2018)
 ---
@@ -82,7 +82,7 @@
   - Links locais e externos
 
 **Exercício:**
-* Reconstrua a [Primeira Página da Web](https://ifpb.github.io/html-exercises/challenges/first-web-page/)
+* Reconstrua a [Primeira Página da Web](https://ifpb.github.io/html-exercises/html/first-web-page/)
 
 <!-- 
 TODO
@@ -101,8 +101,8 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 - Linha Horizontal `<hr>`
 
 **Exercício:**
-* [Inspecione uma página na Web](https://ifpb.github.io/html-exercises/challenges/inspect-page/)
-* Reproduza a [Página LM](https://ifpb.github.io/html-exercises/challenges/page-lm-simple/)
+* [Inspecione uma página na Web](https://ifpb.github.io/html-exercises/html/inspect-page/)
+* Reproduza a [Página LM](https://ifpb.github.io/html-exercises/html/page-lm-simple/)
 
 ## \# 06 - Criando a página da disciplina com imagens (04/04/2018)
 ---
@@ -116,7 +116,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
   - Imagem com link
 
 **Exercício:**
-* [Página LM usando imagem](https://ifpb.github.io/html-exercises/challenges/page-lm-img/)
+* [Página LM usando imagem](https://ifpb.github.io/html-exercises/html/page-lm-img/)
 
 ## \# 07 - Criando um currículo em HTML (06/04/2018)
 ---
@@ -125,8 +125,8 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 - Revisão de HTML
 
 **Exercício:**
-* [Curriculum Vitae](https://ifpb.github.io/html-exercises/challenges/curriculum-simple/)
-* [Curriculum Vitae com Sumário](https://ifpb.github.io/html-exercises/challenges/curriculum-linkinternal/)
+* [Curriculum Vitae](https://ifpb.github.io/html-exercises/html/curriculum-simple/)
+* [Curriculum Vitae com Sumário](https://ifpb.github.io/html-exercises/html/curriculum-linkinternal/)
 
 ## \# 08 - Linguagem de Estilo e o CSS (11/04/2018)
 ---
@@ -158,7 +158,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Qual é o benefício de definir mais de uma classe à um elemento?
 
 **Exercício:**
-* [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/challenges/hello-world-css/)
+* [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/css/hello-world-css/)
 
 
 ## \# 09 - Primeiros Passos com CSS (13/04/2018)
@@ -182,8 +182,8 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * O que acontece quando um elemento carrega um estilo inválido? É possível identificar?
 
 **Exercício:**
-* [Analisando uma página com Estilo](https://ifpb.github.io/css-exercises/challenges/inspect-style/)
-* [Selecionando Elementos no HTML](https://ifpb.github.io/css-exercises/challenges/selector-css/)
+* [Analisando uma página com Estilo](https://ifpb.github.io/css-exercises/css/inspect-style/)
+* [Selecionando Elementos no HTML](https://ifpb.github.io/css-exercises/css/selector-css/)
 
 
 ## \# 10 - Primeiros Passos com CSS (18/04/2018)
@@ -208,7 +208,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Qual a relação entre Media query e Design responsivo? Como definos *breakpoint* no Design responsivo?
 
 **Exercício:**
-* [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/challenges/customize-print/)
+* [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/css/customize-print/)
 
 ## \# 11 - Estilizando Texto (20/04/2018)
 ---
@@ -232,7 +232,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Como estilizamos um hyperlink?
 
 **Exercício:**
-* No exercício [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/challenges/customize-print/), crie alguns links e depois tente estilizá-los nos estados `:hover`, `:link`, `:active`, `:visited`, `:focus`. Alterando `color`, `outline`, `text-decoration`, `cursor`.
+* No exercício [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/css/customize-print/), crie alguns links e depois tente estilizá-los nos estados `:hover`, `:link`, `:active`, `:visited`, `:focus`. Alterando `color`, `outline`, `text-decoration`, `cursor`.
 
 <!-- 
 ## \# 12 -  Estilizando Texto (25/04/2018)
@@ -246,7 +246,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Quais são os estilos de alinhamento e aparência para fonte?
 
 **Exercício:**
-* Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/challenges/curriculum-style-text/)
+* Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/css/curriculum-style-text/)
 
 ## \# 13 -  Web Fonts e Ícones (27/04/2018)
 ---
@@ -256,7 +256,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 
 **Exercício:**
-* [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/challenges/curriculum-style-icon/)
+* [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/css/curriculum-style-icon/)
 
 ## \# 14 - Cascata no CSS (02/05/2018)
 ---
