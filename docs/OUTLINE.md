@@ -214,27 +214,25 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
-- [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography.html):
-  - [Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font)
-  - [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout)
+- [Estilizando Texto](https://ifpb.github.io/css-guide/css/typography.html) ([Texto e fonte](https://ifpb.github.io/css-guide/css/typography.html#text-and-font), [Alinhamento de Texto](https://ifpb.github.io/css-guide/css/typography.html#text-layout))
 - [Estilizando links](https://ifpb.github.io/css-guide/css/links.html)
-  - Selector pseudo-class: `:hover`, `:link`, `:active`, `:visited`, `:focus`
+  - pseudo-class selector: `:hover`, `:link`, `:active`, `:visited`, `:focus`
 
 **Reflexão**
 * Quais são os estilos de alinhamento e aparência para fonte?
 * Qual cor combina com o vermelho tomate?
-* Se não for definido nenhum font-family, qual será a fonte atribuída?
-* O que acontece se font-family não possuir a fonte instalada no computador?
-* Qual é a diferença entre <font-family> e <generic-family>?
-* Qual é a recomendação para se difinir uma família de fonte?
-* Qual a diferança entre unidades de medida relativa e absoluta?
-* Como funciona a sobra para um texto?
+* Na propriedade `font-family`, qual é a diferença entre `<family-name>` e `<generic-family>`?
+* Se não for definido nenhum `<family-name>` a um elemento, qual será a `<family-name>` atribuída por default?
+* O que acontece se o `<family-name>` não possuir a fonte instalada no computador?
+* Qual é a recomendação para se difinir uma propriedade `font-family`?
+* Em relação ao valor `<length>`, qual a diferança entre unidades de medida relativa e absoluta? Que propriedades de texto recebem esse valor?
+* As fontes [Roboto](https://fonts.google.com/specimen/Roboto) e Arial Black permitem definir múltiplos valores para `font-weight`?
+* Como funciona a sombra para um texto?
 * Como estilizamos um hyperlink?
 
 **Exercício:**
 * No exercício [Adpatando a página de impressão](https://ifpb.github.io/css-exercises/css/customize-print/), crie alguns links e depois tente estilizá-los nos estados `:hover`, `:link`, `:active`, `:visited`, `:focus`. Alterando `color`, `outline`, `text-decoration`, `cursor`.
 
-<!-- 
 ## \# 12 -  Estilizando Texto (25/04/2018)
 ---
 
@@ -252,8 +250,18 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
+- [Web Fontes](https://ifpb.github.io/css-guide/css/web-font.html)
+- [Ícones](https://ifpb.github.io/css-guide/css/icon.html)
 
 **Reflexão**
+* Quais são as configurações existentes para habilitar uma fonte da Web? É possível usar múltiplas fontes da Web?
+* Qual é a recomendação para se definir uma fonte da Web? O que acontece se a fonte não for baixada?
+* Como usamos fontes do Google Fonte? O que os links css do Google Fonte trazem?
+* É possível identicar uma combinação agradável entre fontes do Google Font? Por exemplo, qual é a melhor combinação para a fonte Roboto?
+* No Google Fontes é possível procurar apenas fontes `sans-serif`?
+* Qual a diferença entre ícones de imagem e de fonte? Qual seria sua preferência entre ambas?
+* Como estilizamos um ícone de imagem e de fonte?
+* Qual é a diferença entre o Material Icon e Font Awesome?
 
 **Exercício:**
 * [Curriculum Vitae com Web fontes e Ícones](https://ifpb.github.io/css-exercises/css/curriculum-style-icon/)
@@ -262,11 +270,19 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
+- [Cascata](https://ifpb.github.io/css-guide/css/#cascade)
 
 **Reflexão**
+* Como é definido a ordem de cascata do CSS?
+* Quais são os níveis de importância no CSS?
+* Por que não é tão legal usar o `!important` no CSS?
+* Como definimos a especificidade de uma declaração de estilo?
+* A ordem de declaração do `<link>` e `<style>` no HTML interfere na cascata?
 
 **Exercício:**
 
+
+<!-- 
 ## \# 15 - Box Model (04/05/2018)
 ---
 
