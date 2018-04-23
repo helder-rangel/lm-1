@@ -11,6 +11,10 @@
 [\# 09 - Primeiros Passos com CSS (13/04/2018)](#-09---primeiros-passos-com-css-13042018))<br>
 [\# 10 - Primeiros Passos com CSS (18/04/2018)](#-10---primeiros-passos-com-css-18042018)<br>
 [\# 11 - Estilizando Texto (20/04/2018)](#-11---estilizando-texto-20042018)<br>
+[\# 12 -  Estilizando Texto (25/04/2018)](#-12----estilizando-texto-25042018)<br>
+[\# 13 -  Web Fonts e Ícones (27/04/2018)](#-13----web-fonts-e-ícones-27042018)<br>
+[\# 14 - Cascata no CSS (02/05/2018)](#-14---cascata-no-css-02052018)<br>
+[\# 15 - Box Model (04/05/2018)](#-15---box-model-04052018)<br>
 
 ## \# 01 - Apresentação da Disciplina (14/03/2018)
 ---
@@ -270,7 +274,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
-- [Cascata](https://ifpb.github.io/css-guide/css/#cascade)
+- [Cascata](https://ifpb.github.io/css-guide/css/cascade.html)
 
 **Reflexão**
 * Como é definido a ordem de cascata do CSS?
@@ -281,17 +285,30 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 
 **Exercício:**
 
+* 
 
-<!-- 
 ## \# 15 - Box Model (04/05/2018)
 ---
 
 **Conteúdo:**
-- [Inline text semantics \| W3C](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics)
+- [Box model](https://ifpb.github.io/css-guide/box-model.html)
+
 **Reflexão**
+* O que é box model? Quais estilos podemos aplicar em um Box?
+* Como um box pode ser exibido no navegador?
+* Por que o W3C considera os elementos HTML [deste link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics) como inline?
+* Existe alguma exceção de elemento inline que permite definir largura?
+* É possível personalizar um border específico? Por exemplo, a borda inferior?
+* Como centralizamos um parágrafo de largura pré-definida?
+* Qual é a melhor maneira de definir altura de um Box?
+* É possível deixar uma borda arredonda nas quinas?
+* Como funcionar a sombra para um Box?
+* Como apresentar uma tabela em uma grid contínua, sem espaçamento?
 
 **Exercício:**
+* Analise o Box Model [desses títulos](https://ifpb.github.io/css-guide/css/box-model/index.html).
 
+<!-- 
 ## \# 16 - Box Model (09/05/2018)
 ---
 
@@ -313,7 +330,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 
 **Exercício:**
 
-## \# 18 - Tabela, Lista (16/05/2018)
+## \# 18 - Estilizando Tabela e Lista (16/05/2018)
 ---
 
 **Conteúdo:**
@@ -337,7 +354,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ## \# 21 - Avaliação I de HTML e CSS (25/05/2018)
 ---
 
-## \# 22 - Apresentação do Projetos e do Blog
+## \# 22 - Apresentação do Projeto e do Blog
 ---
 
 ## \# 23 - Apresentação das propostas de Projetos
@@ -405,6 +422,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 
 **Exercício:**
+- https://developers.google.com/web/fundamentals/codelabs/your-first-multi-screen-site/
 
 ## \# 31 - Simulado II de HTML e CSS
 ---
@@ -428,6 +446,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
+[How browsers position floats – Monica Dinculescu](https://meowni.ca/posts/float-layout/)
 
 **Reflexão**
 
