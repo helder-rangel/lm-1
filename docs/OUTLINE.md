@@ -225,6 +225,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 * Quais são os estilos de alinhamento e aparência para fonte?
 * Qual cor combina com o vermelho tomate?
+* O Google Chrome permite ajudar a escolha de um bom contraste de cor?
 * Na propriedade `font-family`, qual é a diferença entre `<family-name>` e `<generic-family>`?
 * Se não for definido nenhum `<family-name>` a um elemento, qual será a `<family-name>` atribuída por default?
 * O que acontece se o `<family-name>` não possuir a fonte instalada no computador?
@@ -261,9 +262,9 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 * Quais são as configurações existentes para habilitar uma fonte da Web? É possível usar múltiplas fontes da Web?
 * Qual é a recomendação para se definir uma fonte da Web? O que acontece se a fonte não for baixada?
-* Como usamos fontes do Google Fonte? O que os links css do Google Fonte trazem?
-* É possível identicar uma combinação agradável entre fontes do Google Font? Por exemplo, qual é a melhor combinação para a fonte Roboto?
-* No Google Fontes é possível procurar apenas fontes `sans-serif`?
+* Como utilizamos uma fonte do Google Fonts? O que os links CSS do Google Fonts trazem?
+* É possível identificar uma combinação agradável entre fontes do Google Fonts? Por exemplo, qual é a melhor combinação para a fonte Roboto?
+* No Google Fonts é possível procurar apenas fontes `sans-serif`? Ou que possua no mínimo 3 estilos?
 * Qual a diferença entre ícones de imagem e de fonte? Qual seria sua preferência entre ambas?
 * Como estilizamos um ícone de imagem e de fonte?
 * Qual é a diferença entre o Material Icon e Font Awesome?
@@ -281,7 +282,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Como é definido a ordem de cascata do CSS?
 * Quais são os níveis de importância no CSS?
 * Por que não é tão legal usar o `!important` no CSS?
-* Como definimos a especificidade de uma declaração de estilo?
+* Como aumentamos a especificidade de uma declaração de estilo?
 * A ordem de declaração do `<link>` e `<style>` no HTML interfere na cascata?
 
 **Exercício:**
@@ -299,12 +300,12 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Como um box pode ser exibido no navegador?
 * Por que o W3C considera os elementos HTML [deste link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Inline_text_semantics) como inline?
 * Existe alguma exceção de elemento inline que permite definir largura?
-* É possível personalizar um border específico? Por exemplo, a borda inferior?
+* É possível personalizar o estilo de alguma borda específica? Por exemplo, a borda inferior?
 * Como centralizamos um parágrafo de largura pré-definida?
-* Qual é a melhor maneira de definir altura de um Box?
+* Qual é a melhor maneira de definir altura de um Box sem gerar problemas de alinhamento vertical?
 * É possível deixar uma borda arredonda nas quinas?
 * Como funcionar a sombra para um Box?
-* Como apresentar uma tabela em uma grid contínua, sem espaçamento?
+* Como apresentar uma tabela em uma grid contínua sem espaçamento?
 
 **Exercício:**
 * Analise o Box Model [desses títulos](https://ifpb.github.io/css-guide/css/box-model/index.html).
