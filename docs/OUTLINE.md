@@ -38,7 +38,7 @@
 - Fundamentos de uma Linguagem de Marcação ([guide](https://ifpb.github.io/html-guide/markup/))
 
 **Exercício:**
-* Descreva o que acontecer ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
+* Descreva o que acontece ao acessar uma página da Web, como a do [IFPB](http://www.ifpb.edu.br)
 * Pesquise sobre a evolução da Web
   * O que é Web de documentos e Web de dados?
   * O que é Web 1.0, Web 2.0 e Web 3.0?
@@ -77,7 +77,7 @@
   - Tags, atributos (`charset` do meta e `lang` no html), entidades e comentários
   - Como acessar a documentação de uma tag ou atributo usando o portal [MDN](https://developer.mozilla.org/kab/docs/Web/HTML)
 - [Listas `<ol>`, `<ul>`, `<dl>`](https://ifpb.github.io/html-guide/html/#lists)
-  - Definição, Ordenada, Não ordenado
+  - Definição, Ordenada, Não ordenada
   - Personalizando marcadores
   - Lista aninhada
 - [Hyperlink `<a>`](https://ifpb.github.io/html-guide/html/#hyperlink)
@@ -159,7 +159,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 * Quais são os possíveis locais que o CSS pode existir junto com o HTML?
 * Qual a relação do atributo global `class` e `id` com o CSS?
 * Qual é a composição da sintaxe do CSS?
-* Qual é o benefício de definir mais de uma classe à um elemento?
+* Qual é o benefício de definir mais de uma classe a um elemento?
 
 **Exercício:**
 * [Criando seu primeiro estilo](https://ifpb.github.io/css-exercises/css/hello-world-css/)
