@@ -246,6 +246,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 
 **Reflexão**
 * Quais são os estilos de alinhamento e aparência para fonte?
+* Como estilizamos um hyperlink?
 
 **Exercício:**
 * Criando o [Curriculum Vitae com Estilo](https://ifpb.github.io/css-exercises/css/curriculum-style-text/)
@@ -285,13 +286,13 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 
 **Exercício:**
 
-* 
+* [Analisando o efeito da cascata no CSS](https://ifpb.github.io/css-exercises/css/cascade-css/)
 
 ## \# 15 - Box Model (04/05/2018)
 ---
 
 **Conteúdo:**
-- [Box model](https://ifpb.github.io/css-guide/box-model.html)
+- [Box model](https://ifpb.github.io/css-guide/css/box-model.html)
 
 **Reflexão**
 * O que é box model? Quais estilos podemos aplicar em um Box?
@@ -313,18 +314,17 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
-- [Styling links as buttons \| W3C](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#Including_icons_on_links)
 
 **Reflexão**
 
 **Exercício:**
+* [Styling links as buttons \| W3C](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#Styling_links_as_buttons)
 
 ## \# 17 - Backgound (11/05/2018)
 ---
 
 **Conteúdo:**
-- [Including icons on links \| W3C](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#Including_icons_on_links)
-
+* [Background](https://ifpb.github.io/css-guide/css/background.html)
 
 **Reflexão**
 
@@ -334,10 +334,13 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 ---
 
 **Conteúdo:**
+* [Tabela](https://ifpb.github.io/css-guide/css/table.html)
+* [Lista](https://ifpb.github.io/css-guide/css/list.html)
 
 **Reflexão**
 
 **Exercício:**
+* [Estilizando tabelas](https://ifpb.github.io/css-exercises/css/table-css/)
 
 ## \# 19 - Curriculum Viate com Layout Básico (18/05/2018)
 ---
@@ -347,6 +350,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 
 **Exercício:**
+* [Curriculum Viate com layout básico](https://ifpb.github.io/css-exercises/css/curriculum-style-layout/)
 
 ## \# 20 - Simulado I de HTML e CSS (23/05/2018)
 ---
@@ -377,6 +381,7 @@ https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#kinds-of-conten
 **Reflexão**
 
 **Exercício:**
+* [Portifólio com Layout](https://ifpb.github.io/css-exercises/css/portfolio-initial/)
 
 ## \# 26 - Grid layout
 ---
